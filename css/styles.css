@@ -1,0 +1,21 @@
+*{
+    background: url(../img/b59d6d880c97309519fa3f711d0bac22.jpg);
+    padding: 0;
+
+}
+
+h1{
+    font-family:fantasy;
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    background: rgb(128, 237, 116);;
+}
+
+div{
+    border: solid black 2px;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    background: rgb(128, 237, 116);
+}
